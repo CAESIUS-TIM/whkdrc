@@ -1,3 +1,3 @@
 # whkd config
 
-[komorebi](https://github.com/LGUG2Z/komorebi), a window manager for Windows base on [whkd](https://github.com/LGUG2Z/whkd).
+[komorebi](https://github.com/LGUG2Z/komorebi), a window manager for Windows based on [whkd](https://github.com/LGUG2Z/whkd).
